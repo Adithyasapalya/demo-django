@@ -1,4 +1,5 @@
 # basic django rest api demo project
+# i did basic django frest framework api project with create, read, update, delete operations
 
 from django.urls import path
 from . import views
